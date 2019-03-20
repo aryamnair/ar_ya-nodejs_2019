@@ -1,0 +1,23 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Addmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryamnair/ar_ya-nodejs_2019.git"
+  },
+  "author": "aryamnair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryamnair/ar_ya-nodejs_2019/issues"
+  },
+  "homepage": "https://github.com/aryamnair/ar_ya-nodejs_2019#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
